@@ -8,13 +8,12 @@ Join the watchcord discord server to see development progress: https://discord.g
 - watchOS 7.0+
 
 ## Current features
-- Read messages in servers (only **50** messages at a time)
-- Send messages in servers
-- View member counts of servers
-- Reading/sending messages in DMs
+- Read messages (only **50** messages at a time)
+- Send messages
 - Viewing attachments
 - Viewing external emojis
 
 ## Planned features
 - Voice chat (watchOS 9.0+)
 - Sending emojis
+- Reading all messages
